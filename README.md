@@ -19,7 +19,6 @@ A simple desktop GUI tool built with **Python** and **Tkinter** to remove Arabic
 
 ---
 
-## 🎯 Usage
 ### 🔧 Requirements
 - Python 3.7+
 - Tkinter (built-in)
@@ -27,17 +26,14 @@ A simple desktop GUI tool built with **Python** and **Tkinter** to remove Arabic
 
 ### ▶️ Run the app
 
-```bash
-python tashkeel_remover.py
+
+$ python tashkeel_remover.py
 
 📦 Create an EXE (Windows only)
-pip install pyinstaller
-pyinstaller --noconsole --onefile --icon=assets/icon.ico tashkeel_remover.py
+$ pip install pyinstaller
+$ pyinstaller --noconsole --onefile --icon=assets/icon.ico tashkeel_remover.py
 
 📂 File Structure
-css
-Copy
-Edit
 
 tashkeel-remover/
 │
